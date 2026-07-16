@@ -1,2 +1,2 @@
-ARG version=9
+ARG version
 FROM almalinux:${version}
